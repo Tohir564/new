@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+  font-size: 15px;
+}
+
+.maincontainer {
+  box-sizing: border-box;
+  border: 0px solid;
+  padding: 30px;
+  width: 630px;
+  border-radius: 5cap;
+  background-color: white;
+  margin: auto;
+}
+
+img {
+  border-radius: 5cap;
+}
+
+.text {
+  text-align: center;
+  font-size: 16px;
+}
+
+.scan {
+  font-size: 20px;
+  opacity: 0.7;
+  font-weight: 400;
+}
